@@ -4,6 +4,6 @@
 
 |  name | link |
 ------------| -------------
-| growthmindset | [go to](https://ayhamazraq.github.io/reading-notes/growthmindset) |
-|read01        | [go to ](https://ayhamazraq.github.io/reading-notes/read01) |
-|read02        | [go to](https://ayhamazraq.github.io/reading-notes/read02)|
+| growthmindset| [go to](https://ayhamazraq.github.io/reading-notes/growthmindset) |
+|read01        | [go to ](https://ayhamazraq.github.io/reading-notes/read01)       |
+|read02        | [go to](https://ayhamazraq.github.io/reading-notes/read02)        |
