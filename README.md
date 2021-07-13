@@ -6,7 +6,7 @@
         name | link
  ------------ | -------------
  
-growthmindset | [go to] (https://github.com/Ayhamazraq/reading-notes/growthmindset)
+growthmindset | [go to] (https://github.com/Ayhamazraq/reading-notes/growthminse)
 
 read02        | [go to ] (https://github.com/Ayhamazraq/reading-notes/read02)
 
