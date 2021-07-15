@@ -8,5 +8,9 @@
 |read01        | [go to ](https://ayhamazraq.github.io/reading-notes/read01)        |
 |read02        | [go to](https://ayhamazraq.github.io/reading-notes/read02)        |
 |read03        | [go to](https://ayhamazraq.github.io/reading-notes/read03)        |
+<<<<<<< HEAD
 |read04        | [go to](https://ayhamazraq.github.io/reading-notes/read04)        |
 |read06        | [go to](https://ayhamazraq.github.io/reading-notes/read06)        |
+=======
+|read04        | [go to](https://ayhamazraq.github.io/reading-notes/read04)        |
+>>>>>>> db17f3d1c1e2b64bdc29975a8324683499aace35
