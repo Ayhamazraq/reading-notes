@@ -8,5 +8,5 @@
 |read01        | [go to ](https://ayhamazraq.github.io/reading-notes/read01)        |
 |read02        | [go to](https://ayhamazraq.github.io/reading-notes/read02)        |
 |read03        | [go to](https://ayhamazraq.github.io/reading-notes/read03)        |
-
-
+|read04        | [go to](https://ayhamazraq.github.io/reading-notes/read04)        |
+|read06        | [go to](https://ayhamazraq.github.io/reading-notes/read06)        |
